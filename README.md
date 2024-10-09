@@ -43,3 +43,13 @@ Requirements that are necessary for both should be written for both.
 ## ER diagram
 
 ![ER diagram](./images/スクリーンショット%202024-10-08%2023.20.12.png)
+
+## flow chart
+
+### player
+
+![flow chart for player](./images/スクリーンショット%202024-10-08%2023.53.01.png)
+
+### admin
+
+![flow chart for admin](./images/スクリーンショット%202024-10-09%200.12.59.png)
