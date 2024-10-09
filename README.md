@@ -63,3 +63,7 @@ Requirements that are necessary for both should be written for both.
 ### Controller Class
 
 ![Controller Class diagram](./images/スクリーンショット%202024-10-09%2014.43.02.png)
+
+## Method design
+
+![Method design](./images/スクリーンショット%202024-10-09%2015.04.38.png)
