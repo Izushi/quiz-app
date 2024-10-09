@@ -42,7 +42,7 @@ Requirements that are necessary for both should be written for both.
 
 ## ER diagram
 
-![ER diagram](./images/スクリーンショット%202024-10-08%2023.20.12.png)
+![ER diagram](./images/スクリーンショット%202024-10-09%201.34.46.png)
 
 ## flow chart
 
