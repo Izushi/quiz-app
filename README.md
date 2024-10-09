@@ -33,3 +33,9 @@ Requirements that are necessary for both should be written for both.
 ## Screen Transition Diagram
 
 ### player
+
+![screen transition diagram for player](./images/スクリーンショット%202024-10-08%2021.28.57.png)
+
+### admin
+
+![screen transition diagram for admin](./images/スクリーンショット%202024-10-08%2021.29.25.png)
