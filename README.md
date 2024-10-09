@@ -67,3 +67,7 @@ Requirements that are necessary for both should be written for both.
 ## Method design
 
 ![Method design](./images/スクリーンショット%202024-10-09%2015.04.38.png)
+
+## Database Design
+
+![Database Design](./images/スクリーンショット%202024-10-09%2015.54.55.png)
