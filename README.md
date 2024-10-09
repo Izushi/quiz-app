@@ -53,3 +53,13 @@ Requirements that are necessary for both should be written for both.
 ### admin
 
 ![flow chart for admin](./images/スクリーンショット%202024-10-09%200.12.59.png)
+
+## Class diagram
+
+### Model Class
+
+![Model Class diagram](./images/スクリーンショット%202024-10-09%2014.42.37.png)
+
+### Controller Class
+
+![Controller Class diagram](./images/スクリーンショット%202024-10-09%2014.43.02.png)
